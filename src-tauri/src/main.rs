@@ -24,5 +24,5 @@ fn main() {
         ])
         .setup(setup::init)
         .run(tauri::generate_context!())
-        .expect("error while running lencx/ChatGPT application");
+        .expect("error while running lencx/DeepSeek application");
 }

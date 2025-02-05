@@ -1,7 +1,7 @@
 {
-  "productName": "ChatGPT",
+  "productName": "DeepSeek",
   "version": "../package.json",
-  "identifier": "com.nofwl.chatgpt",
+  "identifier": "com.nofwl.deepseek",
   "build": {
     "beforeDevCommand": "pnpm dev",
     "devUrl": "http://localhost:1420",

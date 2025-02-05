@@ -1,9 +1,9 @@
 [package]
-name = "chatgpt"
+name = "deepseek"
 version = "0.0.0"
-description = "ChatGPT Desktop Application (Unofficial)"
+description = "DeepSeek Desktop Application (Unofficial)"
 authors = ["lencx <cxin1314@gmail.com>"]
-repository = "https://github.com/lencx/ChatGPT"
+repository = "https://github.com/lencx/DeepSeek"
 license = "AGPL-3.0"
 edition = "2021"
 rust-version = "1.77.1"

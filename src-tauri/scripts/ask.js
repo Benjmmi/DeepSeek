@@ -1,7 +1,7 @@
 /**
  * @name ask.js
  * @version 0.1.0
- * @url https://github.com/lencx/ChatGPT/tree/main/scripts/ask.js
+ * @url https://github.com/lencx/DeepSeek/tree/main/scripts/ask.js
  */
 
 class ChatAsk {
